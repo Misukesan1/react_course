@@ -1,0 +1,30 @@
+.boxShadow {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.borderBlack {
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
+.borderRed {
+    border: 1px solid rgba(207, 0, 0, 0.8);
+}
+.borderBlue {
+    border: 1px solid rgba(0, 40, 216, 0.8);
+}
+
+.tweet {
+    width: fit-content;
+    padding: 8px;
+    min-width: 150px;
+}
+
+.sectionTweet {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding-bottom: 20px;
+}
+
+form {
+    padding: 20px 0;
+}
